@@ -3,7 +3,7 @@
 #include <string.h>
 #define MaxCaracteres 100
 
-void escolha(int opcao, char *frase);
+void escolha(int entrada, char *frase);
 int pergunta();
 void subFrase(char *frase);
 void subLetra(char *frase);
