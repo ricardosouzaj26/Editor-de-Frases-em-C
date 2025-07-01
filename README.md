@@ -1,21 +1,23 @@
 # Editor-de-Frases-em-C
 
-Este programa em C permite ao usuário interagir com uma frase digitada, oferecendo as seguintes opções:
-
--  Substituir toda a frase
--  Substituir uma letra específica por outra (respeitando maiúsculas e minúsculas)
--  Encerrar o programa
+  O código implementa um editor de frases simples em linguagem C, que permite ao usuário substituir toda a frase ou trocar letras específicas por outras, considerando variações entre maiúsculas e minúsculas. O objetivo do programa é praticar manipulação de strings, uso de vetores, entrada de dados e controle de fluxo por meio de um menu interativo com estrutura modular.
 
 ---
 
 ## Funcionalidades
 
-•Substituição de toda a frase por uma nova
+- Substituição de toda a frase por uma nova
+- Substituição de qualquer letra da frase (considera maiúsculas e minúsculas)
+- Manutenção da frase em memória durante a execução
+- Validação de entrada do usuário
+- Organização modular do código com uso de funções
 
-•Substituição de qualquer letra da frase (considera maiúsculas e minúsculas)
+---
 
-•Manutenção da frase em memória durante a execução
+## Autor
 
-•Validação de entrada do usuário
+### Ricardo de Souza  
+- GitHub: [@ricardosouzaj26](https://github.com/ricardosouzaj26)  
+- LinkedIn: [Ricardo de Souza no LinkedIn](https://www.linkedin.com/in/ricardo-de-souza-junior-487702352/)  
+- Email: ricardode26souza@gmail.com
 
-•Organização modular do código com uso de funções
