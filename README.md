@@ -1,4 +1,4 @@
-# Editor-de-Frases-em-C
+# Editor de Frases em C
 
   O código implementa um editor de frases simples em linguagem C, que permite ao usuário substituir toda a frase ou trocar letras específicas por outras, considerando variações entre maiúsculas e minúsculas. O objetivo do programa é praticar manipulação de strings, uso de vetores, entrada de dados e controle de fluxo por meio de um menu interativo com estrutura modular.
 
