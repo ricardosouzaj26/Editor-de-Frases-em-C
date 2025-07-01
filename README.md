@@ -2,20 +2,20 @@
 
 Este programa em C permite ao usuário interagir com uma frase digitada, oferecendo as seguintes opções:
 
-- ✅ Substituir toda a frase
-- 🔄 Substituir uma letra específica por outra (respeitando maiúsculas e minúsculas)
-- ❌ Encerrar o programa
+-  Substituir toda a frase
+-  Substituir uma letra específica por outra (respeitando maiúsculas e minúsculas)
+-  Encerrar o programa
 
 ---
 
-## 📌 Funcionalidades
+## Funcionalidades
 
-1. **Substituir frase inteira**  
-   O usuário digita uma nova frase e ela substitui a frase atual.
+•Substituição de toda a frase por uma nova
 
-2. **Substituir letra na frase**  
-   O usuário escolhe uma letra a ser substituída e a letra que entrará no lugar.  
-   A substituição é feita **tanto para maiúsculas quanto minúsculas** equivalentes.  
-   Exemplo: ao substituir `a` por `*`, a letra `A` também será substituída por `*`.
+•Substituição de qualquer letra da frase (considera maiúsculas e minúsculas)
 
-3. **Encerrar o programa**
+•Manutenção da frase em memória durante a execução
+
+•Validação de entrada do usuário
+
+•Organização modular do código com uso de funções
